@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     # my apps
     "job",
     "bootstrap4",
+    'bootstrap5',
+    "phonenumber_field",
 ]
 CRISPY_TEMPLATE_PACK = "bootstrap4"
 MIDDLEWARE = [
