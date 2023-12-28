@@ -44,7 +44,8 @@ INSTALLED_APPS = [
     'contact',
     "bootstrap4",
     'bootstrap5',
-    'django_filters'
+    'django_filters',
+    'rest_framework',
 ]
 CRISPY_TEMPLATE_PACK = "bootstrap4"
 MIDDLEWARE = [
